@@ -1,3 +1,7 @@
-
-const a =19;
-console.log(a);
+// console.log
+const sum =30;
+let addsum =40;
+function ad()
+{
+  return sum+addsum;
+}
